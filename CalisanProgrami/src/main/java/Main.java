@@ -69,7 +69,7 @@ public class Main {
 
             }
             else if (islem.equals("2")) {
-                Yonetici yonetici = new Yonetici("Serhat","Say", "123", 10);
+                Yonetici yonetici = new Yonetici("Yasin","Demirci", "1708", 10);
 
                 String yonetici_islem = "Yönetici İşlemleri\n"
                         + "1. Zam Yap\n"
