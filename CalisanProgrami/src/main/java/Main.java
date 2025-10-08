@@ -36,7 +36,7 @@ public class Main {
 
             }
             else if (islem.equals("1")){
-                Yazilimci yazilimci = new Yazilimci("Mustafa Murat","Coşkun", "567","Python,C,Java");
+                Yazilimci yazilimci = new Yazilimci("Taha Yasin","Demirci", "584","Python,C,Java");
                 String yazilimci_islem = "1. Format At\n"
                         +"2. Bilgileri Göster\n"
                         + "Çıkış için q'ya basın";
