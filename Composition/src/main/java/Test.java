@@ -14,8 +14,5 @@ public class Test {
 
         pc.getAnakart().isletim_sistemi_yukle("Fedora 42");
 
-
-
-
     }
 }
